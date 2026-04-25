@@ -179,3 +179,6 @@ Q: How to keep iSH running in the background on iOS?
 A: Search for “iSH background keep‑alive” techniques. Common methods include playing silent audio, enabling location updates, or using Shortcuts to periodically wake the app.
 
 Issues and pull requests are welcome. Official website: lawaos.yuzijiang.space
+
+04/25 update：
+The new version can make Shortcuts connect to LawaOS, and it can contorl iOS System(WiFi,Blueteeth and so on)
