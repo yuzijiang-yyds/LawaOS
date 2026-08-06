@@ -1,4 +1,7 @@
 # LawaOS
+
+You can install this project from 'https://github.com/yuzijiang-yyds/LawaOS/releases/tag/LawaOS-code'
+
 This is a system expansion project. It can run on all platforms (iOS/iPadOS, macOS X, Windows, Android...). On iOS, it can be deeply linked with shortcuts, so I call it RootPretend Jailbreak.
 
 ⚠️Notice⚠️：LawaOS default password is 'LawaOS'
